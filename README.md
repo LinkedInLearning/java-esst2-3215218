@@ -29,5 +29,5 @@ Engineering Manager, Coach & Trainer.
 Sie finden [weitere Kurse von Kevin Wittek](https://www.linkedin.com/learning/instructors/kevin-wittek) auf LinkedIn Learning. Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/kevin-wittek?trk=lil_instructor) und [Twitter](https://twitter.com/kiview).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/java-grundkurs-1-sprachkonzepte-und-programmiergrundlagen
+[lil-course-url]: https://www.linkedin.com/learning/java-grundkurs-2-objektorientierte-programmierung-fehlerbehandlung-stream-api
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQFNvmzVb_5TnQ/learning-public-crop_675_1200/0/1677229321851?e=2147483647&v=beta&t=XrpinCO349m-Vl9tDNNXBd21zMVqv9kERfCtuwZipDI
