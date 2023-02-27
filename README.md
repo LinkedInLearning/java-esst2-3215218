@@ -2,7 +2,7 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `Java Grundkurs 2: Objektorientierte Programmierung, Fehlerbehandlung, Stream-API`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-!Java Grundkurs 2: Objektorientierte Programmierung, Fehlerbehandlung, Stream-API[lil-thumbnail-url] 
+![lil-thumbnail-url] 
 
 Im zweiten Teil seiner Kursreihe bringt Ihnen Java-Experte Kevin Wittek die Grundlagen der objektorientierten Programmierung nahe und wie diese in Java umgesetzt werden können. Sie sehen, wie das Collections-Framework die Arbeit mit Listen und Mengen von Objekten deutlich vereinfacht. Weiterhin lernen Sie die von Java eingesetzten Konzepte der Fehlerbehandlung kennen. Ein Blick auf die Stream-API und Lambda-Expressions verdeutlicht, wie Sie auch Konzepte  der Funktionalen Programmierung in Java umsetzen können.<br>
 Sie lernen und üben das Ganze in der professionellen und modernen Entwicklungsumgebung IntelliJ IDEA, die sich in den letzten Jahren als Industriestandard etabliert hat. Mit der Hilfe von zahlreichen Challenges/Solutions-Einheiten können Sie Ihr Wissen immer wieder testen und anschließend Ihre Lösung mit der Ihres Trainers vergleichen.
